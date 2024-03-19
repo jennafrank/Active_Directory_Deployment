@@ -15,7 +15,7 @@
 - <b>PowerShell:</b> Automated provision, maintaining, and deprovisioning user accounts, creating over 1,000 users.
 <h2>Project Details</h2>
 
-- <b>Platforms and Technology Used: Active Directory, PowerShell, Remote Access Server (RAS), Windows DNS, DHCP, Windows File Servers, NTFS permissions.
+- <b>Platforms and Technology Used: Oracle VirtualBox, Active Directory, PowerShell, Remote Access Server (RAS), Windows DNS, DHCP, Windows File Servers, NTFS permissions.
 
 
 <p align="center">
